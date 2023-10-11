@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodreactapp/static/css/main.e6360ea1.css",
+    "main.js": "/foodreactapp/static/js/main.b9261e93.js",
+    "static/media/header_image.jpg": "/foodreactapp/static/media/header_image.1dc0f346d407fc577d16.jpg",
+    "index.html": "/foodreactapp/index.html",
+    "static/media/loader.svg": "/foodreactapp/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "main.e6360ea1.css.map": "/foodreactapp/static/css/main.e6360ea1.css.map",
+    "main.b9261e93.js.map": "/foodreactapp/static/js/main.b9261e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6360ea1.css",
+    "static/js/main.b9261e93.js"
+  ]
+}
